@@ -13,7 +13,7 @@ const MOCK_DANH_SACH_SV = [
     { ID: 5, MA_SINHVIEN: 'SV005', HOTEN: 'Nguyễn Xuân Hải', LOP: 'CNTT K20', TRANG_THAI: 'VANG' },
     { ID: 6, MA_SINHVIEN: 'SV006', HOTEN: 'Đinh Vinh Khoa', LOP: 'CNTT K20', TRANG_THAI: 'CO_MAT' },
     { ID: 7, MA_SINHVIEN: 'SV007', HOTEN: 'Nguyễn Thị Cẩm Giang', LOP: 'CNTT K20', TRANG_THAI: 'CO_PHEP' },
-    { ID: 8, MA_SINHVIEN: 'SV008', HOTEN: 'Vô Danh', LOP: 'CNTT K20', TRANG_THAI: 'CO_MAT' }
+    { ID: 8, MA_SINHVIEN: 'SV008', HOTEN: 'Haha', LOP: 'CNTT K20', TRANG_THAI: 'CO_MAT' },
 ];
 
 export default function AttendancePage() {
